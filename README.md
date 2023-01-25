@@ -1,3 +1,9 @@
+<img src="https://cdn.discordapp.com/attachments/823533797651906563/1067852041831075890/pokedex.png"/>
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
